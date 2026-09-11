@@ -1,5 +1,7 @@
 {
-	"brim_type": "outer_only",
+	"bottom_shell_layers": "3",
+	"brim_object_gap": "0.12",
+	"brim_type": "inner_only",
 	"brim_width": "3",
 	"elefant_foot_compensation": "0",
 	"from": "User",
@@ -16,12 +18,13 @@
 	"resolution": "0.001",
 	"seam_position": "nearest",
 	"seam_slope_conditional": "1",
-	"seam_slope_type": "external",
-	"skirt_loops": "4",
+	"skirt_loops": "5",
+	"skirt_type": "perobject",
 	"slice_closing_radius": "0.005",
 	"slow_down_layers": "3",
 	"staggered_inner_seams": "1",
+	"top_shell_layers": "3",
 	"version": "2.4.0.6",
 	"wall_generator": "arachne",
-	"wall_loops": "4"
+	"wall_loops": "3"
 }
