@@ -22,7 +22,6 @@
 	"reduce_crossing_wall": "1",
 	"skirt_loops": "0",
 	"slow_down_layers": "2",
-	"sparse_infill_pattern": "grid",
 	"top_shell_layers": "3",
 	"top_shell_thickness": "0",
 	"version": "2.4.0.6",
