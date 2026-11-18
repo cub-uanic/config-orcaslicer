@@ -1,0 +1,82 @@
+{
+	"compatible_printers": [],
+	"cool_plate_temp": [
+		"70"
+	],
+	"cool_plate_temp_initial_layer": [
+		"70"
+	],
+	"default_filament_colour": [
+		"#0E230B"
+	],
+	"enable_pressure_advance": [
+		"0"
+	],
+	"eng_plate_temp": [
+		"70"
+	],
+	"eng_plate_temp_initial_layer": [
+		"70"
+	],
+	"fan_max_speed": [
+		"20"
+	],
+	"fan_min_speed": [
+		"15"
+	],
+	"filament_density": [
+		"1.24"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_flow_ratio": [
+		"1"
+	],
+	"filament_settings_id": [
+		"Amazon Basics PETG Gray"
+	],
+	"filament_type": [
+		"PETG"
+	],
+	"filament_vendor": [
+		"Amazon"
+	],
+	"from": "User",
+	"hot_plate_temp": [
+		"70"
+	],
+	"hot_plate_temp_initial_layer": [
+		"70"
+	],
+	"inherits": "Generic ABS @Qidi Q2 0.4 nozzle",
+	"name": "Amazon Basics PETG Gray",
+	"nozzle_temperature": [
+		"260"
+	],
+	"nozzle_temperature_initial_layer": [
+		"260"
+	],
+	"pressure_advance": [
+		"0"
+	],
+	"supertack_plate_temp": [
+		"70"
+	],
+	"supertack_plate_temp_initial_layer": [
+		"70"
+	],
+	"textured_cool_plate_temp": [
+		"70"
+	],
+	"textured_cool_plate_temp_initial_layer": [
+		"70"
+	],
+	"textured_plate_temp": [
+		"70"
+	],
+	"textured_plate_temp_initial_layer": [
+		"70"
+	],
+	"version": "2.4.0.6"
+}
