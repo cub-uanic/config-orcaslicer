@@ -1,0 +1,69 @@
+{
+	"cool_plate_temp": [
+		"55"
+	],
+	"cool_plate_temp_initial_layer": [
+		"55"
+	],
+	"default_filament_colour": [
+		"#000000"
+	],
+	"eng_plate_temp": [
+		"55"
+	],
+	"eng_plate_temp_initial_layer": [
+		"55"
+	],
+	"filament_density": [
+		"1.24"
+	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_settings_id": [
+		"Professional Lab TPU Black"
+	],
+	"filament_vendor": [
+		"Professional Lab"
+	],
+	"from": "User",
+	"hot_plate_temp": [
+		"55"
+	],
+	"hot_plate_temp_initial_layer": [
+		"55"
+	],
+	"inherits": "Generic TPU 95A @Qidi Q2 0.4 nozzle",
+	"name": "Professional Lab TPU Black",
+	"nozzle_temperature": [
+		"220"
+	],
+	"nozzle_temperature_initial_layer": [
+		"220"
+	],
+	"nozzle_temperature_range_high": [
+		"235"
+	],
+	"nozzle_temperature_range_low": [
+		"205"
+	],
+	"supertack_plate_temp": [
+		"55"
+	],
+	"supertack_plate_temp_initial_layer": [
+		"55"
+	],
+	"textured_cool_plate_temp": [
+		"55"
+	],
+	"textured_cool_plate_temp_initial_layer": [
+		"55"
+	],
+	"textured_plate_temp": [
+		"55"
+	],
+	"textured_plate_temp_initial_layer": [
+		"55"
+	],
+	"version": "2.4.0.6"
+}
