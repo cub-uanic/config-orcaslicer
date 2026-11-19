@@ -33,6 +33,9 @@
 	"filament_flow_ratio": [
 		"1"
 	],
+	"filament_max_volumetric_speed": [
+		"12.1"
+	],
 	"filament_settings_id": [
 		"Amazon Basics PETG Gray"
 	],
@@ -44,10 +47,10 @@
 	],
 	"from": "User",
 	"hot_plate_temp": [
-		"70"
+		"60"
 	],
 	"hot_plate_temp_initial_layer": [
-		"70"
+		"60"
 	],
 	"inherits": "Generic ABS @Qidi Q2 0.4 nozzle",
 	"name": "Amazon Basics PETG Gray",
@@ -56,6 +59,9 @@
 	],
 	"nozzle_temperature_initial_layer": [
 		"260"
+	],
+	"nozzle_temperature_range_low": [
+		"230"
 	],
 	"pressure_advance": [
 		"0"
@@ -73,10 +79,10 @@
 		"70"
 	],
 	"textured_plate_temp": [
-		"70"
+		"60"
 	],
 	"textured_plate_temp_initial_layer": [
-		"70"
+		"60"
 	],
 	"version": "2.4.0.6"
 }
