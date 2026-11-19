@@ -1,4 +1,10 @@
 {
+	"adaptive_pressure_advance": [
+		"1"
+	],
+	"adaptive_pressure_advance_model": [
+		"0.055,6.1,2000\n0.045,14.6,2000\n0.040,18.3,2000\n0.050,6.1,3000\n0.035,14.6,3000\n0.035,18.3,3000"
+	],
 	"compatible_printers": [],
 	"cool_plate_temp": [
 		"70"
@@ -33,6 +39,9 @@
 	"filament_max_volumetric_speed": [
 		"19"
 	],
+	"filament_retract_when_changing_layer": [
+		"0"
+	],
 	"filament_settings_id": [
 		"Amazon Basics PETG Gray"
 	],
@@ -41,6 +50,9 @@
 	],
 	"filament_vendor": [
 		"Amazon"
+	],
+	"filament_wipe": [
+		"0"
 	],
 	"from": "User",
 	"hot_plate_temp": [
