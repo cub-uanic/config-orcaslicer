@@ -9,9 +9,6 @@
 	"default_filament_colour": [
 		"#0E230B"
 	],
-	"enable_pressure_advance": [
-		"0"
-	],
 	"eng_plate_temp": [
 		"70"
 	],
@@ -54,14 +51,11 @@
 	],
 	"inherits": "Generic ABS @Qidi Q2 0.4 nozzle",
 	"name": "Amazon Basics PETG Gray",
-	"nozzle_temperature_initial_layer": [
-		"265"
-	],
 	"nozzle_temperature_range_low": [
 		"230"
 	],
 	"pressure_advance": [
-		"0"
+		"0.045"
 	],
 	"supertack_plate_temp": [
 		"70"
