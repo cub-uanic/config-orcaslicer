@@ -42,6 +42,9 @@
 	"filament_retract_when_changing_layer": [
 		"0"
 	],
+	"filament_retraction_length": [
+		"0.5"
+	],
 	"filament_settings_id": [
 		"Amazon Basics PETG Gray"
 	],
